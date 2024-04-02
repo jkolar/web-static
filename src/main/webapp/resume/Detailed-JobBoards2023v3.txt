@@ -1,0 +1,212 @@
+J A R O S L A V    K O L A R  	j j k o l a r @gmail.com 	 647. 286. 5095
+
+SOFTWARE TOOLS & LANGUAGES
+
+Languages. 	 	Java (certified), PL/SQL, Transact SQL, SQL .NET 
+Application Servers	JBoss, Tomcat, WebSphere
+Databases		Oracle,SQL Server (Microsoft and Sybase), PostgreSQL
+
+IDE/Tools		Intellij IDEA, Eclipse, Jenkins, Maven
+Scripting Lang.		Bash, JavaScript ,PowerShell, Python
+Version Control		Git, CVS, Subversion, Rational Clear Case
+Cloud Security		Microsoft Azure (certified)	
+
+ 
+       Microsoft Azure Security Engineer
+       Application Security Engineer
+       Java Developer
+
+	
+Application Security Consultant, Interac Canada, Toronto (Feb / 2020  Dec / 2023)
+
+Security Vulnerabilities detection and remediation of eTransfer applications
+Logs encryption; design and implementation across all apps
+PII (Personal Identifiable Info) masking in logs - analysis and implementation
+
+Azure virtual machines image and hardening standards; Windows and Linux
+Web signs in with OpenID Connect. Comparing Azure AD B2C to other identity providers
+Showcasing Microsoft Entra IDs (formerly Azure Active Directory) multi-tenant features
+Analysis of Azure KeyVaults security features; a comparison to HashiCorp Vault
+Evaluation of Microsoft Defender (formerly: Azure Security Center) and Microsoft Sentinel as SecOps solutions for Azure workloads
+
+Static Code Analysis tool, SonarQube  support and maintenance
+Publishing recommendations to dev teams to mitigate risk potentials; improve application security
+Troubleshooting Jenkins / Maven builds
+Troubleshooting Docker apps in Microsoft Azure
+Worked on mobile development standards
+
+*Technology stack: Microservices, Azure Cloud, JBoss EAS, Docker, Java8 and 11, Spring Boot, Jenkins, Git, Intellij, GiHub, Jenkins, Maven
+	
+
+Specialized (Calypso) Developer, BMO Bank Of Montreal, Capital Markets, Toronto (Jan/2018-Oct/2019) 
+
+Calypso API: enhancement, business analysis, SIT and UAT support
+Project: Uncleared Margin Rules .UMR. New regulatory compliance, implementing it in Calypso app
+Development of SWIFT messages between BMO Collateral Management Team and OTC collateral custodians:  Bank Of New York, Euroclear, JPM and Clearstream  
+Post trading processing of Front Office transactions - messages, workflows, transfers and accounting postings
+Supported user regression testing, by mocking up data and verify results
+Participate in knowledge transfer to business users
+Downstream reports, changes and new development 
+Production Support
+*Technology stack: Calypso 13, Java 1.8, Oracle SQL, PL/SQL, Linux, Git, DevOps tooling (Git, Jira, BitBucket, Ansible), Acadia web services, Unix shell scripts
+* Interfaces: SWIFT, Acadia, Bloomberg, market data feeds
+
+Senior Software Developer, TD Securities, Fixed Income, Toronto (Oct 2015  Dec 2017) 
+Project: Development and Level 3 support
+
+Calypso API Post-trade settlement, regulatory reporting, P&L, Risk Management and Accounting
+Support responsibilities typically meant to:
+        * troubleshoot, enhance, build, fix and test applications and custom components
+ 	* support post-production deployment, monitor SLA targets
+        * share technical expertise during troubleshooting production incidents
+        * participate in project planning, facilitate stakeholder communication
+* Business supported: fixed income
+was a principal developer of interface to Colline Collateral Management system
+*Technology stack: Calypso 9, Java 1.5, Oracle (SQL, PL/SQL), Unix, CVS, Git, Azul appliances, TIBCO DataSynapse data grid, DevOps tooling (Git, Jenking, Jira, Confluence) 
+* Interfaces: Bloomberg Gateway, SWIFT Payment Gateway, IBM MQ, Tibco and Solace systems, TRAX and Omgeo/OASYS trade matching, Colline Collateral Management
+* Trading offices: London, Toronto and Singapore; all of them with its own L1 support
+* Team structure: 5 developers, practicing Agile/Scrum/Kanban methodology
+
+Senior Software Engineer, BMO Bank Of Montreal, Toronto (Feb 2014-Jul 2015)
+Retail banking, Middle (Application) Tier department - Web Services
+
+* Development and enhancements to Java/WebSphere web services (SOAP & RESTful) applications
+* Development lead during integration testing, UAT and production implementation
+Administration and maintenance of WebSphere centric development environments.
+* Ad-hock support to performance testing group
+* QA bugs fixing for BMO Investor Line group, two-factor authentication module (RESTful app) 
+Assisted other teams in migrating from WebSphere hosted web services to new messaging system
+Ran HP Fortify code analyzer. Then fixing identified vulnerabilities in application code, or explaining them away to application security team.
+* Technologies: Java, WebSphere, web services (SOAP/XML, REST/Json), IBM MQ, XSD, Python scripts
+Typical setup/logic was providing secure messaging and common functionality to all application clients, indirectly connecting them to mainframe system via JCA connectors, or asynchronously via WebSphere MQ to other systems downstream
+Web services client applications were Online banking, IVR, Mobile, and .NET branch application
+
+
+
+Application Architect, RR Donnelley, Toronto 
+Full Time: 9/2010  1/2011 and Jun 2013  Jan 2014, part time: ever since
+RRD Order Management and Billing System
+
+* Due to signing up 2 new big accounts (Target and TD Bank), a number of Start Of Day and End Of Day jobs and processes needed a major overhaul: to accommodate new requirements and improve execution performance. 
+* Almost entire logic of order and inventory management as well as billing was encapsulated in Sybase Transact SQL code. My roles and responsibilities were to analyze and provide solutions via, but not limited to:
+ Developing new Transact SQL code in stored procedures and database triggers
+ Create or update, and execute automated and manual tests
+ Verify code changes via functional, regression and system tests
+ Perform failure analysis to determine root causes
+
+* Design and development of UNIX shell scripts, various data feed loading and sending out
+Processing secure prescriptions pads for College of Physicians and Surgeons of BC 
+Web application enhancement, billing and reporting 
+* Design and development of java job, to be utilized for unattended SFTP transfers
+ProcessingICICI bank monthly banking statements 
+* Technology stack: Tomcat, JBoss, Sybase SQL Server, UNIX, Java, PL/SQL, bootstrap.js
+
+
+Software Engineer. Air Miles, Toronto (Jun 2012  Jun 2013)
+Design and development of application enhancements
+
+The application is full blown J2EE Internet application, one of the busiest in Canada (close to 3,000 bookings daily - during high season) 
+* GUI design was outsourced to a web design agency but their deliverables were wireframes, at best. 
+My job was to implement them using any scripting language or any framework I saw fit. 
+The pages had to render properly in basically all major browsers: IE, FireFox, Chrome and Safari
+* Larger part of my assignment was the server / mid-tier code, handling ticket booking (credit card payment included).  As XML is de-facto a standard in exchanging data among parties in travel industry, my work involved handling extensive XML transformations (ten thousands lines of code in some instances )
+* Application was deployed on Tomcat servlet containers, with three distinct components: xRez, xRezAgent and xDistributor, all products of OpenJaw Technologies. XML-centric. 
+* Technology stack: J2EE / Java, JavaScript and XML/JSON (Ajax), Tomcat, Oracle, agile development
+
+Application Specialist, Bank Of Montreal, Toronto (2/2011-6/2012)
+Project: BMO MidTier applications migration to WebSphere Application Server V7 and V8 
+
+* Planning and execution of use cases related to porting BMO middle tier applications 
+        * Few apps were classic web apps, typically web services application
+        * Client software: ATM, IVR, Mobile, Online and .NET desktops
+        * Sever apps: IBM mainframe z/OS CICS and DB2.
+        
+Documenting test execution, whose successful execution would be upgrades passing mark 
+Executing before-and-after tests and comparing results. Most often that would be comparing resulting SOAP messaged triggered by the identical input
+Explaining customizations (code and/or configuration) undertaken in the process
+Administrating WebSphere Application Server V7 and V8. In development environment. 
+* Unit & regression testing tools : SoapUI, Parasoft SOATest, TCPMon
+* Technology stack: Java, WebSphere App server, WebSphere MQ, Python
+
+Other initiatives 
+* Scanned code to detect security flows and bad coding practices, using static code analyzer too - HP Fortify
+* Fixing, or if not feasible, explaining to Security Officers flagged issues
+* Building Fortify server to ease and automate security assurance screening process ( Python scripting )
+* Scripting headless/unattended installation of IBM Rational Application Developer 7.5 to developers PC
+
+
+
+Technical Consultant, MGS, Government Services Delivery Cluster (10/2007-06/2010)
+Project: Ontario Government Cabinet Submission Tracking (EVISTA, EASY set of application)
+* IBM Web Sphere Portal 6.1 application. Java, Oracle, Hibernate
+* Oracle Reports
+* Reports web service client 
+Database Design & Development.  
+* Data model enhancements and implementations of changes (Oracle 9i and 10g). 
+* Tuned existing PL / SQL and SQL 
+* Application production support
+
+Application Engineer (Consultant), Rogers Communications (8/2006  10/2007)
+Project: Order Entry and Order Management. 
+* J2EE Development and design 
+* Rogers Business Direct portal, Jasper reports design and development
+Other projects, led by Engineering Team 
+* Non Functional testing  Performance, System tests.  Tools: OpenSTA and JMeter 
+* Sending Sprint Canadas orders to Rogers Telecommunications mainframe billing system. 
+* Unix shell script Code 
+* Development of middleware (CORBA) component of IVR system
+* Evaluating Oracle 10i Real Application Clusters (performance, scalability, fail over) 
+
+Project Manager				Sprint Canada (5/2005  7/2006) 
+Projects: Software Engineering Teams projects 
+Few concurrent project around Sprints application System Testing and QA of the infrastructure. 
+Monthly budgets was ranging from $30,000 to $60,000, typically calculated as a sum of consultants (blended) rate
+ Developing Project Plans, including subsidiary plans, as per company's policy. 
+ Creating and maintaining stakeholder communications 
+ Defined deliverables to be officially signed off 
+ Assisted team leads to create activities list for every work package from WBS 
+ Worked with business analysts on Change 
+ Reported project performance to functional managers 
+ Acting as a link between Development and Change Management 
+
+Consultant, Province of Ontario, Economic & Business Cluster (2/2000-5/2005)
+Project: Development & support of Business Name Registrations programs. Duration: 2 years
+* Redesigned Daily batch jobs (Oracle 8i and Java; execution time decreased from 90 to 6 minutes) 
+* Redesigned credit card payments application 
+* Coded Transact-SQL procedures for font-end was Powerbuilder code
+* Coded emergency fixes to old ASP application
+Project: Self-Help Workstation. Client/Server  Duration: 2 years 
+* Design and third-line support. Client/Server app, with 100+ installations across Ontario 
+Enhancements, defect fixes and day-to-day support : Powerbuilder app + screen scraping of AS/400
+Project: Business Name Search. Duration: 6 months 
+* Architecture and data model for performance optimization. Technologies: MQ Series, DB2/400, ERwin 
+	
+Other Initiatives 
+Data Design & Modeling
+* Reverse engineering of modules in legacy applications. 
+* Recommended Data Design Patterns to be implemented
+Testing & QA
+* Identifying discrepancies with non functional requirements and reporting them to the development team
+* Creating test scenarios for change requests
+* Quality Assurance Testing of web applications, compliance to requirements documents and cluster's best practices guidelines
+Production support
+* Worked with other program areas in addressing production issues
+* Leading/Assisting full-time staff with any application change requests or enhancements 
+* Documenting new software releases and ensured compliance
+* Promoted contents to production environment
+* Conducted Knowledge transfer sessions to client staff 
+
+Client / Server Software Development (6/1994-2/2000) 
+Sybase / Oracle, C / Powerbuilder  Consultant  (details available on request)
+
+CERTIFICATIONS
+
+* Microsoft: Azure Security Engineer
+* Oracle:  Java SE 8 Programmer 
+* Oracle:  JEE5 Web Services Developer Certified Professional 
+* IBM:	  Web Services Development for IBM WebSphere  V7.0 
+* PMI:	  PMP ( expired ) 
+
+EDUCATION
+
+B. Sc in Electrical Engineering, University of Novi Sad, Serbia 

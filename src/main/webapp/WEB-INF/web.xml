@@ -3,5 +3,12 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
+
   <display-name>Jaroslav's vanilla web app</display-name>
+
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>Detailed-JobBoards2023v3.htm</welcome-file>
+  </welcome-file-list>
+
 </web-app>
