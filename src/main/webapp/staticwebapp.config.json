@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/resume*",
+      "rewrite": "/resume/Detailed-JobBoards2023v3.htm"
+    },
+    {
+      "route": "/family/photos*",
+      "rewrite": "/family/photos/index.html"
+    }
+  ]
+}
