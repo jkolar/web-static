@@ -15,5 +15,10 @@ rm -r /c/utils/tomcat/webapps/web-static.war
 cp ./target/web-static.war /c/utils/tomcat/webapps
 ```
 
-## test
+## test on local Tomcat
 test: http GET to -> http://localhost:8080/web-static/
+
+## deploying it as Azure static web app ...
+... is definitelly NOT the same as running it on Tomcat
+for example, other then 'default' route has to be specified in 'staticwebapp.config.json'
+file in base folder. See 'azure' branch on how is that done
