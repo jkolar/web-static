@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/resume*",
-      "rewrite": "/resume/Detailed-JobBoards2024v3.htm"
+      "rewrite": "/resume/Detailed-JobBoards2024v4.htm"
     },
     {
       "route": "/family/photos*",
