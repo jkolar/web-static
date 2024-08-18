@@ -8,5 +8,8 @@
       "route": "/family/photos*",
       "rewrite": "/family/photos/index.html"
     }
-  ]
+  ],
+  "mimeTypes": {
+    ".json": "text/json"
+  }
 }
