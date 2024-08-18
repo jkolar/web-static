@@ -13,6 +13,7 @@
     }
   ],
   "mimeTypes": {
-    ".json": "text/json"
+    ".json": "text/json",
+    ".jpg": "image/jpg"
   }
 }
