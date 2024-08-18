@@ -9,7 +9,7 @@
       "rewrite": "/family/photos/index.html"
     },
     {
-      "route":"/images/*"
+      "route":"/images/*.jpg"
     }
   ],
   "mimeTypes": {
