@@ -28,6 +28,16 @@
     </dependency>
   </dependencies>
 
+  <!-- used this to save into artifacory 
+  <distributionManagement>
+      <snapshotRepository>
+          <id>snapshots</id>
+          <name>jfrogubuntu1-snapshots</name>
+          <url>http://192.168.2.34:8081/artifactory/libs-snapshot-local</url>
+      </snapshotRepository>
+  </distributionManagement>
+  -->
+
   <build>
     <finalName>web-static</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
