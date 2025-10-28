@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/resume*",
-      "rewrite": "/resume/Detailed-JobBoards2024v4.htm"
+      "rewrite": "/resume/Jaroslav_Kolar_BNSJP00038523.htm"
     },
     {
       "route": "/family/photos*",
