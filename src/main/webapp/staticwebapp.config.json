@@ -5,6 +5,10 @@
       "rewrite": "/resume/Jaroslav_Kolar_BNSJP00038523.htm"
     },
     {
+      "route": "/resume/long",
+      "rewrite": "/resume/Detailed-JobBoards2025v4.htm"
+    },
+    {
       "route": "/family/photos*",
       "rewrite": "/family/photos/index.html"
     },
